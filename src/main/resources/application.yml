@@ -1,0 +1,5 @@
+app:
+  id: jingwei-gateway
+  # set apollo meta server address, adjust to actual address if necessary
+apollo:
+  meta: http://localhost:8080
